@@ -12,7 +12,17 @@ Task Tracker is a **React-based task management application** that allows users 
 
 ## Demo
 
-![Demo Screenshot](./assets/demo.png)
+1. Add, Toggle Task Completion and Local Storage
+
+![demo01-tasktracker](https://github.com/user-attachments/assets/f2807e27-1c1b-4f05-8a36-73ccad18aa15)
+
+2. Confirmation before deleting task and Local Storage
+
+![demo02-tasktracker](https://github.com/user-attachments/assets/b4cd1d31-2704-48ca-9616-593bd0df57a8)
+
+3.  Deleted Task  and Local Storage
+
+![demo03-tasktracker](https://github.com/user-attachments/assets/94bf9302-443c-4273-b7da-7ce161c4f6bc)
 
 ## Installation and Setup
 
